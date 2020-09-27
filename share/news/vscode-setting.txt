@@ -1,0 +1,4 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.pythonPath": "C:\\Users\\vladi\\source\\git\\ynet-pargh\\Scripts\\python.exe",
+}

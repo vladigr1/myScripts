@@ -1,0 +1,3 @@
+<script type="text/javascript" src="path/to/jquery.min.js" />
+</body>
+</html>
