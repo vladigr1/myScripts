@@ -27,7 +27,7 @@ class html_output:
     location = ''
 
     def __init__(self):
-        self.location = "C://Users//vladi//source//myScripts//share//news//html-output//news.html" 
+        self.location = "C://Users//do2vl//source//myScripts//share//news//html-output//news.html" 
 
     def generate_start_html_file(self):
         html_file = open(self.location, "w")
