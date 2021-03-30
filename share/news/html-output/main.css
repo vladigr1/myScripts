@@ -1,0 +1,36 @@
+* {
+    direction: rtl;
+    color: #f8f8f2 ;
+}
+body{
+    background-color: #282a36;
+}
+
+div{
+    border: 3px solid #282a36;
+}
+
+h1{
+    color: #bd93f9 ;
+}
+
+.main, .country, .politics{
+    background-color:#44475a;
+}
+
+
+p{
+    background-color: #282a36;
+}
+
+.main h2{
+    color: #50fa7b ;
+}
+
+.country h2{
+    color: #ffb86c;
+}
+
+.politics h2{
+    color: #ff5555;
+}
